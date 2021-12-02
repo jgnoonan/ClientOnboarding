@@ -1,0 +1,9 @@
+{
+  "name" : "decisions/Client-Onboarding/OPS1638480380464",
+  "type" : "OPS",
+  "description" : "",
+  "mlUrl" : "http://ads-ml-service-service-filenetauto.itzroks-100000fvew-7232zi-6ccd7f378ae819553d37d5f2ee142bd6-0000.us-south.containers.appdomain.cloud/",
+  "authUrl" : "",
+  "instanceId" : "",
+  "apiKey" : null
+}
